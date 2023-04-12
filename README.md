@@ -1,6 +1,6 @@
 # Engineering Computing Project
 
-Welcome to the repository for the Engineering Computing project! This project focuses on visualizing traveling data and creating a website to display the results. 
+This project focuses on visualizing traveling data and creating a website to display the results. 
 
 ## Project Description
 
@@ -18,5 +18,3 @@ You can access the website at the following URL: https://leoreoreo.github.io/EGc
 ## Project Contributors
 
 This project was created by Leyang Li (lli27.nd.edu) and Kyle Crosby (acrosby2.nd.edu) at the University of Notre Dame. 
-
-Please feel free to contact us with any questions or comments. We hope you find our website informative and engaging!
