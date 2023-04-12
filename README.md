@@ -9,7 +9,7 @@ The goal of this project is to create an interactive website to showcase traveli
 - `index.html`: HTML file for the website
 - `style.css`: CSS file for styles
 - `img`: Folder containing images
-- `plot`: Folder containing HTML files for plots
+- `plots`: Folder containing HTML files for plots
 
 ## Website URL
 
